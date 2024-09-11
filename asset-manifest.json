@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PortFolio/static/css/main.1817f49c.css",
+    "main.js": "/PortFolio/static/js/main.f189d8c8.js",
+    "static/js/415.4d6acbeb.chunk.js": "/PortFolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/PortFolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/resto.png": "/PortFolio/static/media/resto.67134d87519547b19fda.png",
+    "static/media/tesla.png": "/PortFolio/static/media/tesla.2c52d8308ba1328c6e5b.png",
+    "static/media/home-main.svg": "/PortFolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/PortFolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Resume_SagarDeware.pdf": "/PortFolio/static/media/Resume_SagarDeware.639bafad5e9f2e01149d.pdf",
+    "static/media/cdac.png": "/PortFolio/static/media/cdac.c372a34cc67554ebd203.png",
+    "static/media/home-bg.jpg": "/PortFolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/PortFolio/static/media/logo.b1a0e4e80d776d305067.png",
+    "static/media/avatar.svg": "/PortFolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/PortFolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/PortFolio/index.html",
+    "main.1817f49c.css.map": "/PortFolio/static/css/main.1817f49c.css.map",
+    "main.f189d8c8.js.map": "/PortFolio/static/js/main.f189d8c8.js.map",
+    "415.4d6acbeb.chunk.js.map": "/PortFolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/PortFolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1817f49c.css",
+    "static/js/main.f189d8c8.js"
+  ]
+}
